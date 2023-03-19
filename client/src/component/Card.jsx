@@ -22,7 +22,7 @@ const Home = () => {
 
   return (
     <>
-      <Container className="d-flex my-3 gap-4 row-cols-4" style={{ marginLeft: 70 }}>
+      <Container className="d-flex my-3 gap-4 row-cols-4" style={{ marginLeft: 170 }}>
       {asceding?.map((item) => {
         return (
           <div key={item.id} className="my-3 mb-5" style={{ backgroundColor: "#F7E6DA", width: 241, height: 410 }}>
