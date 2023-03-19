@@ -97,7 +97,7 @@ function ListProduct() {
               <tr key={item.id}>
                 <td className="text-center">{index + 1}</td>
                 <td className="text-center">
-                  <img src={`${item.photo}`} alt={item.name} className="w-100" />
+                  <img src={`${item.photo}`} alt={item.name} style={{width:"100px", height:"100px"}} />
                 </td>
                 <td >{item.name}</td>
                 <td >{item.stock}</td>
