@@ -1,0 +1,12 @@
+.waves {
+  position: absolute;
+  top: 70%;
+  right: 5%;
+}
+
+.hero-img {
+  width: 432px;
+  height: 272px;
+  position: absolute;
+  right: -10%;
+}

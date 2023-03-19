@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Guetamala Beans",
+    "price": "Rp.200.000",
+    "description": "Hampir semua referensi sepakat mengatakan bahwa kopi pertama kali ditemukan di Ethiopia, meskipun ada juga beberapa protes yang menyatakan bahwa Coffea arabica sebenarnya muncul pertama kali di bagian selatan Sudan. Karena para gembala Ethiopia adalah manusia pertama yang mengonsumsi kopi walau saat itu mereka baru mengonsumsi buah/cherry-nya saja, maka gagasan tentang “Ethiopia sebagai tempat asal kopi” pun semakin kuat.",
+    "stock": "Stock: 500",
+    "photo": "../../image/Rectangle1.png",
+    "barcode": "../../image/barcode.png",
+    "date": "Saturday, 5 March 2020",
+    "status": "Waiting Response",
+    "qty": "Qty: 6",
+    "total": "Sub Total : 601.800"
+  },
+  {
+    "id": 2,
+    "name": "Nicaragua Beans",
+    "price": "Rp.500.000",
+    "description": "Hampir semua referensi sepakat mengatakan bahwa kopi pertama kali ditemukan di Ethiopia, meskipun ada juga beberapa protes yang menyatakan bahwa Coffea arabica sebenarnya muncul pertama kali di bagian selatan Sudan. Karena para gembala Ethiopia adalah manusia pertama yang mengonsumsi kopi walau saat itu mereka baru mengonsumsi buah/cherry-nya saja, maka gagasan tentang “Ethiopia sebagai tempat asal kopi” pun semakin kuat.",
+    "stock": "Stock: 300",
+    "photo": "../../image/Rectangle2.png",
+    "barcode": "../../image/barcode.png",
+    "date": "Saturday, 5 March 2020",
+    "status": "Waiting Response",
+    "qty": "Qty: 6",
+    "total": "Sub Total : 500.800"
+  },
+  {
+    "id": 3,
+    "name": "Rwanda Beans",
+    "price": "Rp.300.000",
+    "description": "Hampir semua referensi sepakat mengatakan bahwa kopi pertama kali ditemukan di Ethiopia, meskipun ada juga beberapa protes yang menyatakan bahwa Coffea arabica sebenarnya muncul pertama kali di bagian selatan Sudan. Karena para gembala Ethiopia adalah manusia pertama yang mengonsumsi kopi walau saat itu mereka baru mengonsumsi buah/cherry-nya saja, maka gagasan tentang “Ethiopia sebagai tempat asal kopi” pun semakin kuat.",
+    "stock": "Stock: 150",
+    "photo": "../../image/Rectangle3.png",
+    "barcode": "../../image/barcode.png",
+    "date": "Saturday, 5 March 2020",
+    "status": "Waiting Response",
+    "qty": "Qty: 6",
+    "total": "Sub Total : 601.800"
+  },
+  {
+    "id": 4,
+    "name": "Nicaragua Beans",
+    "price": "Rp.300.000",
+    "description": "Hampir semua referensi sepakat mengatakan bahwa kopi pertama kali ditemukan di Ethiopia, meskipun ada juga beberapa protes yang menyatakan bahwa Coffea arabica sebenarnya muncul pertama kali di bagian selatan Sudan. Karena para gembala Ethiopia adalah manusia pertama yang mengonsumsi kopi walau saat itu mereka baru mengonsumsi buah/cherry-nya saja, maka gagasan tentang “Ethiopia sebagai tempat asal kopi” pun semakin kuat.",
+    "stock": "Stock: 150",
+    "photo": "../../image/Rectangle4.png",
+    "barcode": "../../image/barcode.png",
+    "date": "Saturday, 5 March 2020",
+    "status": "Waiting Response",
+    "qty": "Qty: 6",
+    "total": "Sub Total : 501.800"
+  }
+]
