@@ -22,10 +22,10 @@ const Home = () => {
 
   return (
     <>
-      <Container className="d-flex my-3 gap-4 row-cols-4" style={{ marginLeft: 170 }}>
+      <Container className="d-flex my-3 gap-4 row-cols-4" style={{ marginLeft: 190 }}>
       {asceding?.map((item) => {
         return (
-          <div key={item.id} className="my-3 mb-5" style={{ backgroundColor: "#F7E6DA", width: 241, height: 410, marginLeft:"10px" }}>
+          <div key={item.id} className="my-3 mb-5" style={{ backgroundColor: "#F7E6DA", width: 241, height: 410 }}>
             <Link className="text-decoration-none" to={`/detail-product/${item.id}`}>
               <Card.Img variant="top" src={`${item.photo}`} to="/detail-product" />
               <Card.Body style={{ color: "#613D2B", fontSize: 14 }}>
