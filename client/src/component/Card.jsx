@@ -26,10 +26,10 @@ const Home = () => {
       {asceding?.map((item) => {
         return (
           <div key={item.id} className="my-3 mb-5" style={{ backgroundColor: "#F7E6DA", width: 241, height: 410 }}>
-            <Link className="text-decoration-none" to={`/detail-product/${item.id}`}>
+            <Link className="text-decoration-none" to={`/detail-product/${item.id}`} style={{marginLeft:"10px"}}>
               <Card.Img variant="top" src={`${item.photo}`} to="/detail-product" />
               <Card.Body style={{ color: "#613D2B", fontSize: 14 }}>
-                <Card.Title className="fw-bold" style={{marginTop: 14, marginLeft: 13, color: "#613D2B"}} >{item.name}</Card.Title>
+                <Card.Title className="fw-bold" style={{marginTop: 14, marginLeft: 16, color: "#613D2B"}} >{item.name}</Card.Title>
                 <Card.Text>
                   <p style={{ marginTop: "11px", marginLeft: 16, color: "#613D2B" }}>Price: {ConvertFormatRupiah(item.price)}</p>
                   <p style={{ marginTop: "-6%", marginLeft: 16, color: "#613D2B" }}>Stock: {item.stock}</p>
